@@ -1,0 +1,8 @@
+streamlit
+pdf2image
+pytesseract
+sentence-transformers
+faiss-cpu
+numpy
+ollama
+Pillow
